@@ -3,6 +3,8 @@
 With a strong technical skill-set, attention to detail, and 10 years of experience, I want to work as a front-end engineer to try to the things I have never experienced ever.
 Go for it. 🙌
 
+Visit my blog. 👉 [kobe's blog](https://kobevino.github.io)
+
 # Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
